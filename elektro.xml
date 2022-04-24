@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<obchod>
+  <zbozi>
+    <elektronika>
+      <pocitace-a-notebooky>
+        <notebooky>
+          <notebook typ="herni-notebook">
+            <znacka>Asus</znacka>
+            <model>ASUS TUF Gaming F17 FX706HCB-HX147 Graphite</model>
+            <cena mena="czk">24990</cena>
+            <numericka-klavesnice>Ano</numericka-klavesnice>
+            <vlastnosti>
+              <vaha jednotka="kg">2,6</vaha>
+              <display jednotka="palce">7,3</display>
+              <baterie jednotka="wh">60</baterie>
+            </vlastnosti>
+          </notebook>
+          <notebook typ="ultrabook">
+            <znacka>MSI</znacka>
+            <model>MSI Prestige 14 A11SCX-064CZ celokovový</model>
+            <cena mena="czk">27990</cena>
+            <numericka-klavesnice>Ne</numericka-klavesnice>
+            <vlastnosti>
+              <vaha jednotka="kg">1,29</vaha>
+              <display jednotka="palce">14</display>
+              <baterie jednotka="wh">90</baterie>
+            </vlastnosti>
+          </notebook>
+          <notebook typ="2v1">
+            <znacka>Dell</znacka>
+            <model>Dell Latitude 9520 Touch 2in1</model>
+            <cena mena="czk">62 890</cena>
+            <numericka-klavesnice>Ne</numericka-klavesnice>
+            <vlastnosti>
+              <vaha jednotka="kg">15</vaha>
+              <display jednotka="palce">15</display>
+              <baterie jednotka="wh">65</baterie>
+            </vlastnosti>
+          </notebook>
+        </notebooky>
+        <monitory>
+          <monitor model="pruhnuty">
+            <znacka>MSI</znacka>
+            <model>31.5" MSI Optix AG321CQR</model>
+            <cena mena="czk">8890</cena>
+            <HDMI>Ano</HDMI>
+            <rozmery>
+              <vyska jednotka="cm">46,5</vyska>
+              <sirka jednotka="cm">71</sirka>
+              <herce jednotka="hz">165</herce>
+            </rozmery>
+          </monitor>
+          <monitor model="rovny">
+            <znacka>Samsung</znacka>
+            <model>22" Samsung S22F350</model>
+            <cena mena="czk">3190</cena>
+            <HDMI>Ano</HDMI>
+            <rozmery>
+              <vyska jednotka="cm">39,5</vyska>
+              <sirka jednotka="cm">50,9</sirka>
+              <herce jednotka="hz">60</herce>
+            </rozmery>
+          </monitor>
+          <monitor model="4K">
+            <znacka>GIGABYTE</znacka>
+            <model>48" GIGABYTE AORUS FO48U</model>
+            <cena mena="czk">37290</cena>
+            <HDMI>Ano</HDMI>
+            <rozmery>
+              <vyska jednotka="cm">68</vyska>
+              <sirka jednotka="cm">107</sirka>
+              <herce jednotka="hz">120</herce>
+            </rozmery>
+          </monitor>
+        </monitory>
+      </pocitace-a-notebooky>
+      <herni>
+        <PC>
+          <sestava zamereni="high-end">
+            <cena mena="czk">39990</cena>
+            <procesor>Intel Core i5–11400F</procesor>
+            <graf_karta>NVIDIA GeForce RTX 3060 Ti</graf_karta>
+            <operacni-system>Windows 10 Home</operacni-system>
+            <RAM jednotkaRAM="GB">16</RAM>
+          </sestava>
+          <sestava zamereni="middle-end">
+            <cena mena="czk">25999</cena>
+            <procesor>AMD Ryzen 7 5700G</procesor>
+            <graf_karta>Sapphire Radeon RX 6600 Pulse</graf_karta>
+            <operacni-system>Windows 10 Pro</operacni-system>
+            <RAM jednotkaRAM="GB">16</RAM>
+          </sestava>
+          <sestava zamereni="low-end">
+            <cena mena="czk">17930</cena>
+            <procesor>Intel Core i5–10505</procesor>
+            <graf_karta>Intel UHD Graphics</graf_karta>
+            <operacni-system>Windows 10 Pro</operacni-system>
+            <RAM jednotkaRAM="GB">8</RAM>
+          </sestava>
+          <sestava zamereni="low-end">
+            <cena mena="czk">12990</cena>
+            <procesor>Intel Core i3–10105</procesor>
+            <graf_karta>Intel UHD Graphics</graf_karta>
+            <operacni-system>Windows 10 Pro</operacni-system>
+            <RAM jednotkaRAM="GB">8</RAM>
+          </sestava>
+        </PC>
+      </herni>
+    </elektronika>
+  </zbozi>
+</obchod>
