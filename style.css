@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  background-image: url(img/background.jfif);
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 15%;
+  background-color: #f1f1f1;
+  position: fixed;
+  height: 14,5%;
+  overflow: auto;
+  text-align: center;
+}
+p{
+  font-size: 17px;
+  color: rgb(80,86,95);
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+#text {
+  margin-left:5%;
+  margin-right: 5%;
+}
+h1 {
+  text-align: center;
+}
+#img-content{
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+   max-width: 500px;
+   max-height: 800px;
+}
+.content {
+  margin-top: 10px;
+  padding-top: 10px;
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+    background-color: white;
+}
+
+#aside{
+  width: 20%;
+  padding: 5px;
+  float: right;
+  height: 100%;
+  border-style: solid;
+}
